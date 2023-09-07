@@ -9,9 +9,7 @@ This Driver Drowsiness Detection System is a Python-based application that uses 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Arguments](#arguments)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
+- [Other Details](#other-details)
 
 ## Getting Started
 Follow these instructions to set up and use the Driver Drowsiness Detection System on your system.
@@ -56,19 +54,5 @@ If you have an alarm sound file, provide its path with the `-a` argument.
 - `-a` or `--alarm`: Optional. Path to an alarm sound file (e.g., a WAV file) to be played when drowsiness is detected.
 - `-w` or `--webcam`: Optional. Webcam number (default is 0).
 
-## Demo
-Here, you can provide some screenshots or GIFs of the application in action. Show how the system detects drowsiness and triggers the alarm.
-
-## Contributing
-If you'd like to contribute to this project, please follow these guidelines:
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and test thoroughly.
-- Submit a pull request with a clear description of your changes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file to include additional information or sections specific to your project. Providing clear and concise documentation will help users understand how to use your Driver Drowsiness Detection System effectively.
+## Other Details
+More details can be found at DOI: 10.1109/ICACCS51430.2021.9441756
