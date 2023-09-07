@@ -1,7 +1,7 @@
 # Driver Drowsiness Detection System
 
 ## Overview
-This Driver Drowsiness Detection System is a Python-based application that uses computer vision techniques to monitor a driver's facial features and detect signs of drowsiness. It can be used to enhance road safety by alerting drivers when they show signs of fatigue, such as drowsy eyes or yawning.
+This Driver Drowsiness Detection System is a Python-based application that uses computer vision techniques to monitor a driver's facial features and detect signs of drowsiness. It also has the gesture recognition module to control the alarm system. It can be used to enhance road safety by alerting drivers when they show signs of fatigue, such as drowsy eyes or yawning.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
